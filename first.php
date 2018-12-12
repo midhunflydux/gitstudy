@@ -5,6 +5,7 @@
     <title></title>
   </head>
   <body>
-    <h1>This is the heading</h1>
+    <h1>This is the heading</h1> <p>Changed by the midhun_git branch</p>
   </body>
 </html>
+<?php echo "The Hello world" ?>
